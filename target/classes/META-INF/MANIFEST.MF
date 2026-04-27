@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 25
+Main-Class: HelloApp
+Created-By: Maven Integration for Eclipse
+
